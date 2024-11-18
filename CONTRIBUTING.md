@@ -18,7 +18,6 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 ### The list:
 - I prefer svg over png icons because it is vector and weights less.
 - When searching for an app's icon in a repo, look for: `svg`, `icon.png` or `ic_launcher.png`.
-- If F-Droid link is not available, please replace `F-Droid` with `IzzyOnDroid` link if possible.
 
 ```
 ## Category Name
@@ -26,7 +25,7 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 <img alt="AppName" height="64" src="AppNameImageLink.svg/png">
 
 - [x] [Google Play](GooglePlayLink)
-- [x] [F-Droid](F-DroidLink)
+- [x] [Accrescent(AccrescentLink)
 - [x] [Source code](SourceCodeLink)
 - [x] [Official page](OfficialPageLink)
 ```
@@ -44,8 +43,6 @@ Change `Source code` to only one main source code repository link please, not th
 ## AppName
 - [x] Installed and tested by me on my main smartphone and used for about 15 minutes or more.
 - [x] Has dark theme.
-- [x] It has x trackers on [εxodus](εxodus report link).
-- [x] It has x F-Droid [Anti-Features](F-Droid / IzzyOnDroid link).
 - [x] I use the app on a daily basis and I love almost the entirety of it, so I placed next to it a heart.
 ```
 Replace `x` and `links` with your data about the app.
