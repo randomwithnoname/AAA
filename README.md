@@ -2,7 +2,7 @@
 
 ## Introduction
 
-List of high quality Android apps tjat resppect user privacy and autonomy. See [contributing page](CONTRIBUTING.md) to contribute.
+List of high quality Android apps which respect user privacy and autonomy. For the GrapheneOS community. See [contributing page](CONTRIBUTING.md) to contribute.
 
 > App Name :heart: = Someone's Personal Favourite
 >
