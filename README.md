@@ -147,88 +147,11 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme)
 - [x] [Official page](https://ente.io/)
 
-## Ads & Trackers
 
-### AdAway
 
-<img alt="AdAwayIcon" height="64" src="https://raw.githubusercontent.com/AdAway/AdAway/master/app/src/main/res/mipmap-mdpi/icon.png">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/app/org.adaway)
-- [x] [GitHub](https://github.com/AdAway/AdAway)
-- [x] [Official page](https://adaway.org/)
 
-### DNS66
 
-<img alt="DNS66Icon" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)
-- [x] [GitHub](https://github.com/julian-klode/dns66)
-- [x] [Official page](https://jak-linux.org/projects/dns66/)
-
-### InviZible Pro
-
-<img alt="InviZibleProIcon" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
-- [x] [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
-- [x] [GitHub](https://github.com/Gedsh/InviZible)
-- [x] [Official page](https://invizible.net/en/)
-
-### NetGuard
-
-<img alt="NetGuardIcon" height="64" src="https://raw.githubusercontent.com/M66B/NetGuard/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)
-- [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)
-- [x] [GitHub](https://github.com/M66B/NetGuard)
-- [x] [Official page](https://netguard.me/)
-
-### personalDNSfilter
-
-<img alt="personalDNSfilterIcon" height="64" src="https://www.zenz-solutions.de/cms/wp-content/uploads/2020/11/vector_source_512.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=dnsfilter.android)
-- [x] [F-Droid](https://f-droid.org/en/packages/dnsfilter.android/)
-- [x] [GitHub](https://github.com/IngoZenz/personaldnsfilter)
-- [x] [Official page](https://www.zenz-solutions.de/personaldnsfilter-wp/)
-
-### RethinkDNS
-
-<img alt="RethinkDNSIcon" height="64" src="https://play-lh.googleusercontent.com/09-ilhXCKkL8cLZtEDBEhduNW9N88IgM8EW_ghtPakQNNzRY6r1PNTp79vlmq-xz8SA=w240-h480-rw">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.celzero.bravedns)
-- [x] [F-Droid](https://f-droid.org/packages/com.celzero.bravedns/)
-- [x] [GitHub](https://github.com/celzero/rethink-app)
-- [x] [Official page](https://rethinkdns.com/app)
-
-### TrackerControl
-
-<img alt="TrackerControlIcon" height="64" src="https://trackercontrol.org/images/logo.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play)
-- [x] [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
-- [x] [GitHub](https://github.com/TrackerControl/tracker-control-android)
-- [x] [Official page](https://trackercontrol.org/)
-
-### URLCheck
-
-<img alt="URLCheckIcon" height="64" src="https://raw.githubusercontent.com/TrianguloY/UrlChecker/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
-- [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
-- [x] [GitHub](https://github.com/TrianguloY/UrlChecker)
-- [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
-
-### Exodus
-
-<img alt="ExodusIcon" height="64" src="https://raw.githubusercontent.com/Exodus-Privacy/exodus-android-app/master/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy)
-- [x] [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
-- [x] [GitHub](https://github.com/Exodus-Privacy/exodus-android-app)
-- [x] [Official page](https://exodus-privacy.eu.org/)
 
 ## AI
 
