@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors). You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+List of high quality Android apps tjat resppect user privacy and autonomy. See [contributing page](CONTRIBUTING.md) to contribute.
 
 > App Name :heart: = Someone's Personal Favourite
 >
