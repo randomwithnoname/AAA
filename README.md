@@ -125,7 +125,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
-- [x] [Official page](https://getaegis.app/)
+- [x] [Official site](https://getaegis.app/)
 
 ### Ente Auth
 
@@ -133,7 +133,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth)
 - [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme)
-- [x] [Official page](https://ente.io/)
+- [x] [Official site](https://ente.io/)
 - [ ] 
 ### whoBIRD
 
@@ -155,15 +155,15 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### Clock You
 
 - [x] [GitHub](https://github.com/you-apps/ClockYou)
-- [x] [Official page](https://you-apps.net/)
+- [x] [Official site](https://you-apps.net/)
 
 ### Fossify Clock
 - [x] [GitHub](https://github.com/FossifyOrg/Clock)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ### Chrono
 - [x] [GitHub](https://github.com/vicolo-dev/chrono)
-- [ ] Official page
+- [ ] Official site
 
 ## Android Customization
 
@@ -174,12 +174,12 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### Aniyomi :heart:
 
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
-- [x] [Official page](https://aniyomi.jmir.xyz/)
+- [x] [Official site](https://aniyomi.jmir.xyz/)
 
 ### TachiyomiAZ
 
 - [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
-- [x] [Official page](https://crafty.moe/tachiAZ.htm)
+- [x] [Official site](https://crafty.moe/tachiAZ.htm)
 
 ### TachiyomiSY
 
@@ -188,11 +188,11 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
-- [ ] Official page
+- [ ] Official site
 
 ### Kotatsu
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
-- [x] [Official page](https://kotatsu.app/)
+- [x] [Official site](https://kotatsu.app/)
 
 
 ## Background Noise
@@ -204,7 +204,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)
 - [x] [F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)
 - [x] [GitHub](https://github.com/ashutoshgngwr/noice)
-- [x] [Official page](https://trynoice.com/)
+- [x] [Official site](https://trynoice.com/)
 
 ## Barcode Scanner
 
@@ -213,14 +213,14 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
-- [ ] Official page
+- [ ] Official site
 
 ### QR Scanner (PFA)
 
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)
 - [x] [GitHub](https://github.com/SecUSo/privacy-friendly-qr-scanner)
-- [x] [Official page](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
+- [x] [Official site](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
 
 ### SecScanQR
 
@@ -228,7 +228,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [ ] Google Play
 - [x] [GitHub](https://github.com/Fr4gorSoftware/SecScanQR)
-- [ ] Official page
+- [ ] Official site
 
 ### Simple QR
 
@@ -236,7 +236,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
 - [x] [GitHub](https://github.com/tomfong/simple-qr)
-- [ ] Official page
+- [ ] Official site
 
 ## Browser
 
@@ -247,7 +247,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/brave/brave-browser)
-- [x] [Official page](https://brave.com/)
+- [x] [Official site](https://brave.com/)
 
 ### Vanadium
 
@@ -275,7 +275,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc)
 - [x] [GitHub](https://github.com/sosauce/CuteCalc)
-- [ ] Official page
+- [ ] Official site
 
 ## Calendar
 
@@ -286,7 +286,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.calendar)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)
 - [x] [GitHub](https://github.com/FossifyOrg/Calendar)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ### Etar
 
@@ -295,7 +295,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
 - [x] [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/)
 - [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
-- [ ] Official page
+- [ ] Official site
 
 ## Camera
 
@@ -306,7 +306,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 - [x] [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
 - [x] [SourceForge](https://sourceforge.net/p/opencamera/code/)
-- [x] [Official page](https://opencamera.org.uk/)
+- [x] [Official site](https://opencamera.org.uk/)
 
 ### Secure Camera by GrapheneOS
 
@@ -315,7 +315,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
-- [x] [Official page](https://grapheneos.org/)
+- [x] [Official site](https://grapheneos.org/)
 
 ## Chess
 
@@ -326,7 +326,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
 - [x] [F-Droid](https://www.f-droid.org/packages/org.lichess.mobileapp.free/)
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
-- [x] [Official page](https://lichess.org/mobile)
+- [x] [Official site](https://lichess.org/mobile)
 
 ## Coctails Making
 
@@ -337,7 +337,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.moimob.drinkable)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.moimob.drinkable/)
 - [x] [GitHub](https://github.com/MOIMOB/drinkable)
-- [ ] Official page
+- [ ] Official site
 
 ## Contacts
 
@@ -348,7 +348,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.contacts)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
 - [x] [GitHub](https://github.com/FossifyOrg/Contacts)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ## Decision-Making
 
@@ -359,7 +359,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
 - [x] [F-Droid](https://f-droid.org/packages/de.markusfisch.android.libra/)
 - [x] [GitHub](https://github.com/markusfisch/Libra)
-- [ ] Official page
+- [ ] Official site
 
 ## Device Synchronization
 
@@ -370,7 +370,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 - [x] [GitHub](https://github.com/KDE/kdeconnect-kde)
-- [x] [Official page](https://kdeconnect.kde.org/)
+- [x] [Official site](https://kdeconnect.kde.org/)
 
 
 ## Diary
@@ -382,7 +382,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 - [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
 - [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary)
-- [ ] Official page
+- [ ] Official site
 
 ### Diary
 
@@ -391,7 +391,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/)
 - [x] [GitHub](https://github.com/billthefarmer/diary)
-- [x] [Official page](https://billthefarmer.github.io/diary/)
+- [x] [Official site](https://billthefarmer.github.io/diary/)
 
 ## Download Manager
 
@@ -409,7 +409,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.akylas.documentscanner)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner)
 - [x] [GitHub](https://github.com/Akylas/OSS-DocumentScanner)
-- [x] [Official page](https://www.akylas.fr/)
+- [x] [Official site](https://www.akylas.fr/)
 
 ## Drawing
 
@@ -420,7 +420,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.catrobat.paintroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)
 - [x] [GitHub](https://github.com/Catrobat/Paintroid)
-- [ ] Official page
+- [ ] Official site
 
 ## E-book Reader
 
@@ -431,7 +431,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
 - [x] [GitHub](https://github.com/foobnix/LibreraReader)
-- [x] [Official page](https://librera.mobi/)
+- [x] [Official site](https://librera.mobi/)
 
 ### KOReader
 
@@ -440,7 +440,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 - [x] [GitHub](https://github.com/koreader/koreader)
-- [x] [Official page](https://koreader.rocks/)
+- [x] [Official site](https://koreader.rocks/)
 
 ### Myne :heart:
 
@@ -449,7 +449,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.myne)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/Myne)
-- [ ] Official page
+- [ ] Official site
 
 ## Email
 
@@ -460,7 +460,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email)
 - [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)
 - [x] [GitHub](https://github.com/M66B/FairEmail)
-- [x] [Official page](https://email.faircode.eu/)
+- [x] [Official site](https://email.faircode.eu/)
 
 ### Thunderbird
 
@@ -468,7 +468,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 - [x] [GitHub](https://github.com/thundernest/k-9)
-- [x] [Official page](https://www.thunderbird.net/en-US/mobile/)
+- [x] [Official site](https://www.thunderbird.net/en-US/mobile/)
 
 ### Delta Chat
 
@@ -476,7 +476,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 - [x] [GitHub](https://delta.chat/en/)
-- [x] [Official page](https://delta.chat/)
+- [x] [Official site](https://delta.chat/)
 
 ## Emulation
 
@@ -487,7 +487,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
 - [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
 - [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
-- [ ] Official page
+- [ ] Official site
 
 ## App Stores
 
@@ -497,11 +497,11 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] GrapheneOS App Store
 - [x] [GitHub](https://github.com/accrescent/accrescent)
-- [x] [Official page](https://accrescent.app/)
+- [x] [Official site](https://accrescent.app/)
 
 ### GrapheneOS App Store
 - [x] [GitHub](https://github.com/GrapheneOS/AppStore)
-- [x] [Official page](https://grapheneos.org/)
+- [x] [Official site](https://grapheneos.org/)
 
 ### Google Play Store
 
@@ -509,7 +509,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] Bundled with Google certified AOSP distributions (Android), updates itself
 - [x] GrapheneOS App Store (Mirror)
 - [x] [GitHub](https://github.com/Iamlooker/Droid-ify)
-- [x] [Official page](https://play.google.com/)
+- [x] [Official site](https://play.google.com/)
 
 ## File Manager
 
@@ -520,7 +520,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
 - [x] [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
 - [x] [GitHub](https://github.com/zhanghai/MaterialFiles)
-- [ ] Official page
+- [ ] Official site
 
 ### Amaze File Manager
 
@@ -529,7 +529,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 - [x] [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)
 - [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
-- [x] [Official page](https://teamamaze.xyz/)
+- [x] [Official site](https://teamamaze.xyz/)
 
 ### Fossify File Manager
 
@@ -538,7 +538,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
 - [x] [GitHub](https://github.com/FossifyOrg/File-Manager)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ## File Synchronization
 
@@ -549,7 +549,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
 - [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
-- [x] [Official page](https://syncthing.net/)
+- [x] [Official site](https://syncthing.net/)
 
 ### Syncthing-Fork
 
@@ -558,7 +558,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)
 - [x] [GitHub](https://github.com/Catfriend1/syncthing-android)
-- [ ] Official page
+- [ ] Official site
 
 ### Snapdrop
 
@@ -567,7 +567,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
 - [x] [GitHub](https://github.com/fm-sys/snapdrop-android)
-- [x] [Official page](https://snapdrop.net/)
+- [x] [Official site](https://snapdrop.net/)
 
 ## Finance
 
@@ -578,7 +578,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.salomax.currencies)
 - [x] [F-Droid](https://f-droid.org/packages/de.salomax.currencies/)
 - [x] [GitHub](https://github.com/sal0max/currencies)
-- [ ] Official page
+- [ ] Official site
 
 ### MoneyWallet
 
@@ -587,7 +587,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
 - [x] [GitHub](https://github.com/AndreAle94/moneywallet)
-- [ ] Official page
+- [ ] Official site
 
 ### My Expenses
 
@@ -596,7 +596,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses/)
 - [x] [GitHub](https://github.com/mtotschnig/MyExpenses)
-- [x] [Official page](https://www.myexpenses.mobi/en/)
+- [x] [Official site](https://www.myexpenses.mobi/en/)
 
 ### Sushi
 
@@ -605,7 +605,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerameeldelosreyes.sushi/)
 - [x] [GitHub](https://github.com/jerameel/sushi)
-- [ ] Official page
+- [ ] Official site
 
 ## Firewall
 
@@ -616,7 +616,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
 - [x] [GitHub](https://github.com/ukanth/afwall/)
-- [ ] Official page
+- [ ] Official site
 
 ## Flash Cards
 
@@ -627,7 +627,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 - [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
 - [x] [GitHub](https://github.com/ankidroid/Anki-Android)
-- [x] [Official page](https://apps.ankiweb.net)
+- [x] [Official site](https://apps.ankiweb.net)
 
 ### Flash Deck
 
@@ -636,7 +636,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_flash_deck/)
 - [x] [GitHub](https://github.com/rh-id/a-flash-deck)
-- [ ] Official page
+- [ ] Official site
 
 ### Yokatta
 
@@ -645,7 +645,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.thesis.yokatta/)
 - [x] [GitHub](https://github.com/uestueab/app-thesis)
-- [ ] Official page
+- [ ] Official site
 
 ## Forgejo & Gitea
 
@@ -656,7 +656,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.mian.gitnex.pro)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
 - [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
-- [x] [Official page](https://gitnex.com/)
+- [x] [Official site](https://gitnex.com/)
 
 ## Flashlight
 
@@ -667,7 +667,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.flashy)
 - [x] [F-Droid](https://f-droid.org/en/packages/rocks.poopjournal.flashy/)
 - [x] [GitHub](https://github.com/Crazy-Marvin/Flashy)
-- [x] [Official page](https://crazymarvin.com/flashy/)
+- [x] [Official site](https://crazymarvin.com/flashy/)
 
 ## Forgejo & Gitea
 
@@ -678,7 +678,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.mian.gitnex.pro)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
 - [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
-- [x] [Official page](https://gitnex.com/)
+- [x] [Official site](https://gitnex.com/)
 
 ## Gallery
 
@@ -689,7 +689,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
 - [x] [GitHub](https://github.com/FossifyOrg/Gallery)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ### Aves
 
@@ -698,7 +698,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 - [x] [GitHub](https://github.com/deckerst/aves)
-- [ ] Official page
+- [ ] Official site
 
 ### Gallery
 
@@ -707,7 +707,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
 - [x] [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
 - [x] [GitHub](https://github.com/IacobIonut01/Gallery)
-- [ ] Official page
+- [ ] Official site
 
 ## Games
 
@@ -718,7 +718,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
 - [x] [F-Droid](https://f-droid.org/packages/io.anuke.mindustry)
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
-- [x] [Official page](https://mindustrygame.github.io/)
+- [x] [Official site](https://mindustrygame.github.io/)
 
 ### Parlera
 
@@ -727,7 +727,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
 - [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
 - [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
-- [ ] Official page
+- [ ] Official site
 
 ### Shattered Pixel Dungeon :heart:
 
@@ -736,7 +736,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
 - [x] [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon)
-- [x] [Official page](https://shatteredpixel.com/)
+- [x] [Official site](https://shatteredpixel.com/)
 
 ### Simon Tatham's Puzzles
 
@@ -745,7 +745,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
 - [x] [GitHub](https://github.com/chrisboyle/sgtpuzzles)
-- [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
+- [x] [Official site](https://chris.boyle.name/projects/android-puzzles/)
 
 ### Sudoku (Privacy Friendly)
 
@@ -754,7 +754,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlysudoku)
 - [x] [F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)
 - [x] [GitHub](https://github.com/SecUSo/privacy-friendly-sudoku)
-- [x] [Official page](https://secuso.aifb.kit.edu/english/Sudoku.php)
+- [x] [Official site](https://secuso.aifb.kit.edu/english/Sudoku.php)
 
 ### Zoysii
 
@@ -763,7 +763,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.z0ysii)
 - [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.zoysii/)
 - [x] [GitLab](https://gitlab.com/deepdaikon/Zoysii)
-- [ ] Official page
+- [ ] Official site
 
 ### Quinb
 
@@ -772,7 +772,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb)
 - [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.quinb/)
 - [x] [GitLab](https://gitlab.com/deepdaikon/Quinb)
-- [ ] Official page
+- [ ] Official site
 
 ### UnCiv
 
@@ -781,7 +781,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
 - [x] [GitHub](https://github.com/yairm210/Unciv)
-- [x] [Official page](https://yairm210.itch.io/unciv)
+- [x] [Official site](https://yairm210.itch.io/unciv)
 
 ### Box Stacker
 
@@ -790,7 +790,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.artificialworlds.boxstacker)
 - [x] [F-Droid](https://f-droid.org/en/packages/net.artificialworlds.boxstacker/)
 - [x] [GitLab](https://gitlab.com/box-stacker/box-stacker-mobile)
-- [x] [Official page](https://box-stacker.artificialworlds.net/info/)
+- [x] [Official site](https://box-stacker.artificialworlds.net/info/)
 
 ### Everest
 
@@ -799,7 +799,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest/)
 - [x] [GitHub](https://github.com/mwageringel/everest)
-- [x] [Official page](https://mwageringel.github.io/everest/)
+- [x] [Official site](https://mwageringel.github.io/everest/)
 
 ### Minetest
 
@@ -808,7 +808,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 - [x] [F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)
 - [x] [GitHub](https://github.com/minetest/minetest)
-- [x] [Official page](https://www.minetest.net/)
+- [x] [Official site](https://www.minetest.net/)
 
 ## GitHub Client
 
@@ -819,7 +819,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.gh4a/)
 - [x] [GitHub](https://github.com/slapperwan/gh4a)
-- [ ] Official page
+- [ ] Official site
 
 ### DioHub
 
@@ -828,7 +828,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.felix.diohub)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/NamanShergill/diohub)
-- [ ] Official page
+- [ ] Official site
 
 ### Obtainium
 
@@ -837,7 +837,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 - [x] [GitHub](https://github.com/ImranR98/Obtainium)
-- [ ] Official page
+- [ ] Official site
 
 ## Health
 
@@ -849,7 +849,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### MediLog
 
 - [x] [Codeberg](https://codeberg.org/toz/MediLog)
-- [x] [Official page](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
+- [x] [Official site](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
 
 ### MedTimer
 - [x] [GitHub](https://github.com/Futsch1/medTimer)
@@ -863,7 +863,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/)
 - [x] [GitHub](https://github.com/caydey/ffshare)
-- [ ] Official page
+- [ ] Official site
 
 ### Imagepipe
 
@@ -872,7 +872,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/de.kaffeemitkoffein.imagepipe)
 - [x] [CodeBerg](https://codeberg.org/Starfish/Imagepipe)
-- [ ] Official page
+- [ ] Official site
 
 ### Image Toolbox :heart:
 
@@ -881,7 +881,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
 - [x] [GitHub](https://github.com/T8RIN/ImageToolbox)
-- [ ] Official page
+- [ ] Official site
 
 ## Instant Messaging
 
@@ -890,7 +890,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 - [x] [Accrescent](https://accrescent.app/app/im.molly.app)
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
-- [x] [Official page](https://molly.im/)
+- [x] [Official site](https://molly.im/)
 
 ### SimpleX
 
@@ -915,7 +915,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/nekox.messenger/)
 - [x] [GitHub](https://github.com/NekoX-Dev/NekoX)
-- [ ] Official page
+- [ ] Official site
 
 ### OwlGram
 
@@ -924,7 +924,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
-- [ ] Official page
+- [ ] Official site
 
 ### Delta Chat
 
@@ -933,7 +933,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 - [x] [F-Droid](https://f-droid.org/app/com.b44t.messenger)
 - [x] [GitHub](https://github.com/deltachat/deltachat-android)
-- [x] [Official page](https://delta.chat/en/)
+- [x] [Official site](https://delta.chat/en/)
 
 ## Keyboard
 
@@ -944,7 +944,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 - [x] [GitHub](https://github.com/Helium314/HeliBoard)
-- [ ] Official page
+- [ ] Official site
 
 ### FlorisBoard
 
@@ -953,7 +953,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 - [x] [GitHub](https://github.com/florisboard/florisboard)
-- [ ] Official page
+- [ ] Official site
 
 ### Thumb-Key :heart:
 
@@ -964,7 +964,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
 - [x] [GitHub](https://github.com/dessalines/thumb-key)
-- [ ] Official page
+- [ ] Official site
 
 ## Knowledge
 
@@ -977,7 +977,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
 - [x] [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android/)
-- [ ] Official page
+- [ ] Official site
 
 ### Linux Command Library
 
@@ -986,7 +986,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
-- [x] [Official page](https://linuxcommandlibrary.com/)
+- [x] [Official site](https://linuxcommandlibrary.com/)
 
 ## Language
 
@@ -997,7 +997,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kaqui)
 - [x] [F-Droid](https://f-droid.org/packages/org.kaqui/)
 - [x] [GitHub](https://github.com/blastrock/kakugo)
-- [ ] Official page
+- [ ] Official site
 
 ## Launcher
 
@@ -1009,7 +1009,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
 - [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
-- [x] [Official page](https://kvaesitso.mm20.de/)
+- [x] [Official site](https://kvaesitso.mm20.de/)
 
 ### Lawnchair Launcher :heart:
 
@@ -1018,7 +1018,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
-- [x] [Official page](https://lawnchair.app/)
+- [x] [Official site](https://lawnchair.app/)
 
 ### Neo Launcher
 
@@ -1029,7 +1029,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
-- [ ] Official page
+- [ ] Official site
 
 ### KISS Launcher :heart:
 
@@ -1038,7 +1038,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 - [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
 - [x] [GitHub](https://github.com/Neamar/KISS)
-- [x] [Official page](https://kisslauncher.com/)
+- [x] [Official site](https://kisslauncher.com/)
 
 ### Lunar Launcher
 
@@ -1047,7 +1047,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
 - [x] [F-Droid](https://f-droid.org/packages/rasel.lunar.launcher)
 - [x] [GitHub](https://github.com/iamrasel/lunar-launcher)
-- [ ] Official page
+- [ ] Official site
 
 ## Lemmy
 
@@ -1060,7 +1060,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerboa)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerboa)
 - [x] [GitHub](https://github.com/dessalines/jerboa)
-- [ ] Official page
+- [ ] Official site
 
 ### Thunder :heart:
 
@@ -1069,7 +1069,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hjiangsu.thunder)
 - [x] [GitHub](https://github.com/thunder-app/thunder)
-- [x] [Official page](https://thunderapp.dev/)
+- [x] [Official site](https://thunderapp.dev/)
 
 ## Loyalty Card
 
@@ -1080,7 +1080,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
 - [x] [F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)
 - [x] [GitHub](https://github.com/CatimaLoyalty/Android)
-- [x] [Official page](https://catima.app/)
+- [x] [Official site](https://catima.app/)
 
 ## Maps
 
@@ -1091,7 +1091,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
-- [x] [Official page](https://organicmaps.app/)
+- [x] [Official site](https://organicmaps.app/)
 
 ### OsmAnd
 
@@ -1100,7 +1100,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.osmand)
 - [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
 - [x] [GitHub](https://github.com/osmandapp/OsmAnd)
-- [x] [Official page](https://osmand.net/)
+- [x] [Official site](https://osmand.net/)
 
 ## Mastodon
 
@@ -1111,7 +1111,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky/)
 - [x] [GitHub](https://github.com/tuskyapp/Tusky)
-- [x] [Official page](https://tusky.app/)
+- [x] [Official site](https://tusky.app/)
 
 ## Matrix Client
 
@@ -1122,7 +1122,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=im.vector.app)
 - [x] [F-Droid](https://f-droid.org/app/im.vector.app)
 - [x] [GitHub](https://github.com/vector-im/element-android)
-- [x] [Official page](https://element.io/)
+- [x] [Official site](https://element.io/)
 
 ### Fluffy Chat
 
@@ -1131,7 +1131,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)
 - [x] [F-Droid](https://f-droid.org/de/packages/chat.fluffy.fluffychat/)
 - [x] [GitHub](https://gitlab.com/famedly/fluffychat)
-- [x] [Official page](https://fluffychat.im/)
+- [x] [Official site](https://fluffychat.im/)
 
 ## Meditation
 
@@ -1142,7 +1142,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
 - [x] [GitHub](https://github.com/meditohq/medito-app)
-- [x] [Official page](https://meditofoundation.org/)
+- [x] [Official site](https://meditofoundation.org/)
 
 ### Buddha Quotes
 
@@ -1151,7 +1151,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.bandev.buddhaquotes)
 - [x] [GitHub](https://github.com/BanDev/BuddhaQuotes)
-- [ ] Official page
+- [ ] Official site
 
 ### Meditation Assistant
 
@@ -1160,7 +1160,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=sh.ftp.rocketninelabs.meditationassistant)
 - [x] [F-Droid](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
 - [x] [GitTea](https://code.rocketnine.space/tslocum/meditationassistant)
-- [ ] Official page
+- [ ] Official site
 
 ## Music Downloader
 
@@ -1171,7 +1171,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)
 - [x] [GitHub](https://github.com/Shabinder/SpotiFlyer)
-- [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
+- [x] [Official site](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
 
@@ -1182,7 +1182,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
 - [x] [GitHub](https://github.com/MuntashirAkon/Metro)
-- [ ] Official page
+- [ ] Official site
 
 ### Auxio
 
@@ -1191,7 +1191,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/app/org.oxycblt.auxio)
 - [x] [GitHub](https://github.com/OxygenCobalt/Auxio)
-- [ ] Official page
+- [ ] Official site
 
 ### Music Player GO :heart:
 
@@ -1200,7 +1200,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.iven.musicplayergo/)
 - [x] [GitHub](https://github.com/enricocid/Music-Player-GO)
-- [ ] Official page
+- [ ] Official site
 
 ### Vinyl
 
@@ -1209,7 +1209,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
 - [x] [F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)
 - [x] [GitHub](https://github.com/AdrienPoupa/VinylMusicPlayer)
-- [ ] Official page
+- [ ] Official site
 
 ### Howl
 
@@ -1218,7 +1218,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
 - [x] [GitHub](https://github.com/Iamlooker/Howl)
-- [ ] Official page
+- [ ] Official site
 
 ### Noad Player
 
@@ -1227,7 +1227,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
 - [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
-- [ ] Official page
+- [ ] Official site
 
 ### Mucke
 
@@ -1236,7 +1236,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
 - [x] [GitHub](https://github.com/moritz-weber/mucke)
-- [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
+- [x] [Official site](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
 ### Fossify Music Player
 
@@ -1245,7 +1245,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
 - [x] [GitHub](https://github.com/FossifyOrg/Music-Player)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ### Tiny Music Player
 
@@ -1254,7 +1254,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/)
 - [x] [GitHub](https://github.com/martinmimigames/tiny-music-player)
-- [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
+- [x] [Official site](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
 ## Music Scrobbler
 
@@ -1265,7 +1265,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/kawaiiDango/pScrobbler)
-- [ ] Official page
+- [ ] Official site
 
 ### Simple Scrobbler
 
@@ -1274,7 +1274,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.adam.aslfms/)
 - [x] [GitHub](https://github.com/simple-last-fm-scrobbler/sls)
-- [x] [Official page](https://simple-last-fm-scrobbler.github.io/)
+- [x] [Official site](https://simple-last-fm-scrobbler.github.io/)
 
 ## Notes
 
@@ -1285,7 +1285,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 - [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
 - [x] [GitHub](https://github.com/OmGodse/Notally)
-- [ ] Official page
+- [ ] Official site
 
 ### Joplin
 
@@ -1294,7 +1294,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin)
 - [x] [GitHub](https://github.com/laurent22/joplin/)
-- [x] [Official page](https://joplinapp.org/)
+- [x] [Official site](https://joplinapp.org/)
 
 ### Safe Notes
 
@@ -1303,7 +1303,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
 - [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
 - [x] [GitHub](https://github.com/keshav-space/safenotes/)
-- [x] [Official page](https://safenotes.keshav.space/)
+- [x] [Official site](https://safenotes.keshav.space/)
 
 ### Markor
 
@@ -1312,7 +1312,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
 - [x] [GitHub](https://github.com/gsantner/markor)
-- [x] [Official page](https://gsantner.net/page/projects.html#markor)
+- [x] [Official site](https://gsantner.net/page/projects.html#markor)
 
 ### Fossify Notes
 
@@ -1321,7 +1321,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)
 - [x] [GitHub](https://github.com/FossifyOrg/Notes)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ## OCR
 
@@ -1332,7 +1332,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.totschnig.ocr.tesseract/)
 - [x] [GitHub](https://github.com/mtotschnig/OCR)
-- [ ] Official page
+- [ ] Official site
 
 ## Office Suite
 
@@ -1343,7 +1343,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
 - [x] [F-Droid](https://www.collaboraoffice.com/tag/f-droid/)
 - [x] [GitHub](https://github.com/CollaboraOnline/online)
-- [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
+- [x] [Official site](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
 ## Package Manager
 
@@ -1354,7 +1354,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
 - [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
-- [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
+- [x] [Official site](https://muntashirakon.github.io/AppManager/en/)
 
 ### Package Manager
 
@@ -1363,7 +1363,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
 - [x] [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager)
 - [x] [GitHub](https://github.com/SmartPack/PackageManager)
-- [x] [Official page](https://smartpack.github.io/)
+- [x] [Official site](https://smartpack.github.io/)
 
 ## Password Manager
 
@@ -1374,7 +1374,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
 - [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
 - [x] [GitHub](https://github.com/bitwarden/mobile)
-- [x] [Official page](https://bitwarden.com/)
+- [x] [Official site](https://bitwarden.com/)
 
 ### Keepass2Android
 
@@ -1383,7 +1383,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 - [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
-- [ ] Official page
+- [ ] Official site
 
 ### KeePassDX :heart:
 
@@ -1392,28 +1392,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
 - [x] [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
-- [x] [Official page](https://www.keepassdx.com/)
-
-## PDF Viewer
-
-### MJ PDF
-
-<img alt="MJPDFIcon" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
-- [x] [GitLab](https://gitlab.com/mudlej_android/mj_pdf_reader)
-- [ ] Official page
-
-### Secure PDF Viewer by GrapheneOS
-
-<img alt="GrapheneOSPDFViewerIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/PdfViewer/main/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
-- [x] [Official page](https://grapheneos.org/)
-
+- [x] [Official site](https://www.keepassdx.com/)
 ## Plants
 
 ### Florae
@@ -1425,7 +1404,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=cat.naval.florae)
 - [x] [F-Droid](https://f-droid.org/en/packages/cat.naval.florae/)
 - [x] [GitHub](https://github.com/aeri/Florae)
-- [ ] Official page
+- [ ] Official site
 
 ## Public Transport Assistant
 
@@ -1436,7 +1415,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
 - [x] [GitHub](https://github.com/grote/Transportr)
-- [x] [Official page](https://transportr.app/)
+- [x] [Official site](https://transportr.app/)
 
 ### Öffi
 
@@ -1445,7 +1424,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
 - [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
-- [x] [Official page](https://oeffi.schildbach.de/)
+- [x] [Official site](https://oeffi.schildbach.de/)
 
 ## Podcast
 
@@ -1456,7 +1435,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 - [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 - [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
-- [x] [Official page](https://antennapod.org/)
+- [x] [Official site](https://antennapod.org/)
 
 ## Reddit
 
@@ -1467,7 +1446,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- [ ] Official page
+- [ ] Official site
 
 ### Stealth️
 
@@ -1476,7 +1455,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [x] [GitLab](https://gitlab.com/cosmosapps/stealth)
-- [ ] Official page
+- [ ] Official site
 
 ## RNG
 
@@ -1487,7 +1466,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.randomix)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.randomix/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/randomix)
-- [ ] Official page
+- [ ] Official site
 
 ## RSS Reader
 
@@ -1498,7 +1477,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
 - [x] [GitLab](https://gitlab.com/spacecowboy/Feeder)
-- [ ] Official page
+- [ ] Official site
 
 ### ReadYou
 
@@ -1507,7 +1486,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
 - [x] [GitHub](https://github.com/Ashinch/ReadYou)
-- [ ] Official page
+- [ ] Official site
 
 ### Nunti
 
@@ -1516,7 +1495,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.nunti/)
 - [x] [GitLab](https://gitlab.com/ondrejfoltyn/nunti)
-- [ ] Official page
+- [ ] Official site
 
 ### Capy Reader
 
@@ -1527,7 +1506,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.capyreader.app)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.capyreader.app/)
 - [x] [GitHub](https://github.com/jocmp/capyreader)
-- [ ] Official page
+- [ ] Official site
 
 ## SMS Messenger
 
@@ -1538,7 +1517,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.messages)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
 - [x] [GitHub](https://github.com/FossifyOrg/Messages)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ### QUIK SMS
 
@@ -1549,7 +1528,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
 - [x] [GitHub](https://github.com/octoshrimpy/quik)
-- [ ] Official page
+- [ ] Official site
 
 ## Self Hosted
 
@@ -1560,7 +1539,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
 - [x] [GitHub](https://github.com/jellyfin/jellyfin-android)
-- [x] [Official page](https://jellyfin.org/)
+- [x] [Official site](https://jellyfin.org/)
 
 ### Findroid
 
@@ -1569,7 +1548,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
 - [x] [GitHub](https://github.com/jarnedemeulemeester/findroid)
-- [ ] Official page
+- [ ] Official site
 
 ## Shazam
 
@@ -1580,7 +1559,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
 - [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer)
-- [ ] Official page
+- [ ] Official site
 
 ## Spotify
 
@@ -1591,7 +1570,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
 - [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
-- [ ] Official page
+- [ ] Official site
 
 ## SSH client
 
@@ -1602,7 +1581,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
 - [x] [GitHub](https://github.com/connectbot/connectbot)
-- [x] [Official page](http://connectbot.org/)
+- [x] [Official site](http://connectbot.org/)
 
 ## Stargazing
 
@@ -1613,7 +1592,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
 - [x] [GitHub](https://github.com/sky-map-team/stardroid)
-- [ ] Official page
+- [ ] Official site
 
 ## Step Counting
 
@@ -1624,7 +1603,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/ca.chancehorizon.paseo/)
 - [x] [GitLab](https://gitlab.com/pardomi/paseo/)
-- [ ] Official page
+- [ ] Official site
 
 ## Streaming
 
@@ -1635,7 +1614,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
 - [x] [GitHub](https://github.com/recloudstream/cloudstream)
-- [x] [Official page](https://recloudstream.github.io/)
+- [x] [Official site](https://recloudstream.github.io/)
 
 ### Burning-Series
 
@@ -1644,7 +1623,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.datlag.burningseries/)
 - [x] [GitHub](https://github.com/DATL4G/BurningSeries-Android/)
-- [ ] Official page
+- [ ] Official site
 
 ## Survival
 
@@ -1655,7 +1634,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
 - [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
 - [x] [GitHub](https://github.com/ligi/SurvivalManual)
-- [x] [Official page](https://survivalmanual.github.io/)
+- [x] [Official site](https://survivalmanual.github.io/)
 
 ### Trail Sense
 
@@ -1664,7 +1643,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
 - [x] [GitHub](https://github.com/kylecorry31/Trail-Sense)
-- [x] [Official page](https://kylecorry.com/Trail-Sense/)
+- [x] [Official site](https://kylecorry.com/Trail-Sense/)
 
 ### Compass
 
@@ -1673,7 +1652,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.bobek.compass)
 - [x] [F-Droid](https://f-droid.org/packages/com.bobek.compass/)
 - [x] [GitHub](https://github.com/Kr0oked/Compass)
-- [ ] Official page
+- [ ] Official site
 
 ## System Cleaner
 
@@ -1684,7 +1663,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
 - [x] [GitHub](https://github.com/d4rken-org/sdmaid-se)
-- [ ] Official page
+- [ ] Official site
 
 ## Terminal Emulator
 
@@ -1695,7 +1674,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 - [x] [GitHub](https://github.com/termux/termux-app)
-- [x] [Official page](https://termux.org/)
+- [x] [Official site](https://termux.org/)
 
 ## Text Editor
 
@@ -1706,7 +1685,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 - [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
 - [x] [GitHub](https://github.com/deadlyjack/acode)
-- [x] [Official page](https://acode.foxdebug.com/)
+- [x] [Official site](https://acode.foxdebug.com/)
 
 ### Xed Editor
 
@@ -1715,7 +1694,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.rk.xededitor/)
 - [x] [GitHub](https://github.com/RohitKushvaha01/Xed-Editor)
-- [ ] Official page
+- [ ] Official site
 
 ## Timers
 
@@ -1728,7 +1707,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 - [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
 - [x] [GitHub](https://github.com/adrcotfas/Goodtime)
-- [ ] Official page
+- [ ] Official site
 
 ### Cofi
 
@@ -1739,7 +1718,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
 - [x] [GitHub](https://github.com/rozPierog/Cofi)
-- [x] [Official page](https://rozpierog.github.io/Cofi/)
+- [x] [Official site](https://rozpierog.github.io/Cofi/)
 
 ### Smart EggTimer
 
@@ -1748,7 +1727,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
 - [x] [GitHub](https://github.com/woheller69/eggtimer)
-- [ ] Official page
+- [ ] Official site
 
 ### Cuppa
 
@@ -1759,7 +1738,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.nathanatos.Cuppa/)
 - [x] [GitHub](https://github.com/ncosgray/cuppa_mobile)
-- [x] [Official page](https://www.nathanatos.com/)
+- [x] [Official site](https://www.nathanatos.com/)
 
 ## To-Do List
 
@@ -1770,7 +1749,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.tasks)
 - [x] [F-Droid](https://f-droid.org/packages/org.tasks)
 - [x] [GitHub](https://github.com/tasks/tasks)
-- [x] [Official page](https://tasks.org/)
+- [x] [Official site](https://tasks.org/)
 
 ### PocketPlan
 
@@ -1779,7 +1758,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
 - [x] [F-Droid](https://f-droid.org/packages/com.pocket_plan.j7_003/)
 - [x] [GitHub](https://github.com/estep248/PocketPlan)
-- [ ] Official page
+- [ ] Official site
 
 ### ToDark
 
@@ -1788,7 +1767,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
 - [x] [GitHub](https://github.com/DarkMooNight/ToDark)
-- [ ] Official page
+- [ ] Official site
 
 ### Doable
 
@@ -1797,7 +1776,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://codeberg.org/florian-obernberger/fdroid-repo)
 - [x] [Codeberg](https://codeberg.org/florian-obernberger/flutter-doable)
-- [ ] Official page
+- [ ] Official site
 
 ### 1List
 
@@ -1806,7 +1785,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.lolo.io.onelist)
 - [x] [F-Droid](https://f-droid.org/packages/com.lolo.io.onelist/)
 - [x] [GitHub](https://github.com/lolo-io/OneList)
-- [ ] Official page
+- [ ] Official site
 
 ## Torrenting
 
@@ -1817,7 +1796,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
 - [x] [F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)
 - [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
-- [ ] Official page
+- [ ] Official site
 
 ## Trackers
 
@@ -1830,7 +1809,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
 - [x] [GitHub](https://github.com/albertvaka/bettercounter)
-- [ ] Official page
+- [ ] Official site
 
 ### Birday :heart:
 
@@ -1841,7 +1820,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
-- [ ] Official page
+- [ ] Official site
 
 ### GreenStash️ :heart:
 
@@ -1852,7 +1831,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.greenstash)
 - [x] [F-Droid](https://f-droid.org/packages/com.starry.greenstash/)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
-- [ ] Official page
+- [ ] Official site
 
 ### Koduko
 
@@ -1863,7 +1842,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
 - [x] [GitHub](https://github.com/Mazahir26/koduko)
-- [ ] Official page
+- [ ] Official site
 
 ### Loop :heart:
 
@@ -1874,7 +1853,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
-- [x] [Official page](https://loophabits.org/)
+- [x] [Official site](https://loophabits.org/)
 
 ### Habo
 
@@ -1885,7 +1864,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo)
 - [x] [GitHub](https://github.com/xpavle00/Habo)
-- [x] [Official page](https://habo.space/)
+- [x] [Official site](https://habo.space/)
 
 ### Openreads
 
@@ -1896,7 +1875,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
 - [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
 - [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
-- [ ] Official page
+- [ ] Official site
 
 ### Showly :heart:
 
@@ -1907,7 +1886,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
-- [x] [Official page](http://showlyapp.com/)
+- [x] [Official site](http://showlyapp.com/)
 
 ### Simple Time Tracker :heart:
 
@@ -1918,7 +1897,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
 - [x] [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)
 - [x] [GitHub](https://github.com/Razeeman/Android-SimpleTimeTracker)
-- [ ] Official page
+- [ ] Official site
 
 ### Sobriety
 
@@ -1929,7 +1908,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
 - [x] [GitHub](https://github.com/KiARC/Sobriety)
-- [ ] Official page
+- [ ] Official site
 
 ### Vacation Days
 
@@ -1940,7 +1919,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [GitHub](https://github.com/Crazy-Marvin/VacationDays)
-- [x] [Official page](https://crazymarvin.com/vacation-days/)
+- [x] [Official site](https://crazymarvin.com/vacation-days/)
 
 ### drip
 
@@ -1951,7 +1930,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://bloodyhealth.gitlab.io/android.html)
 - [x] [F-Droid](https://bloodyhealth.gitlab.io/fdroid.html)
 - [x] [GitLab](https://gitlab.com/bloodyhealth/drip)
-- [x] [Official page](https://bloodyhealth.gitlab.io/)
+- [x] [Official site](https://bloodyhealth.gitlab.io/)
 
 ### Plees Tracker
 
@@ -1962,7 +1941,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
 - [x] [GitHub](https://github.com/vmiklos/plees-tracker)
-- [x] [Official page](https://vmiklos.hu/plees-tracker/)
+- [x] [Official site](https://vmiklos.hu/plees-tracker/)
 
 ### Trackbook :heart:
 
@@ -1973,7 +1952,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.y20k.trackbook/)
 - [x] [Codeberg](https://codeberg.org/y20k/trackbook)
-- [ ] Official page
+- [ ] Official site
 
 ### Screen Time
 
@@ -1984,7 +1963,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.screentime/)
 - [x] [Codeberg](https://github.com/markusfisch/ScreenTime)
-- [ ] Official page
+- [ ] Official site
 
 ## Translator
 
@@ -1995,7 +1974,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://manerakai.github.io/simplytranslate_mobile/index.html)
-- [ ] Official page
+- [ ] Official site
 
 ### DeepL
 
@@ -2004,7 +1983,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
 - [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
-- [ ] Official page
+- [ ] Official site
 
 ### SimplyTranslate Mobile :heart:
 
@@ -2013,7 +1992,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
-- [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
+- [x] [Official site](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
 ## Twitch
 
@@ -2024,7 +2003,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
-- [ ] Official page
+- [ ] Official site
 
 ### Xtra
 
@@ -2033,7 +2012,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
 - [x] [GitHub](https://github.com/crackededed/Xtra)
-- [ ] Official page
+- [ ] Official site
 
 ### Frosty
 
@@ -2042,7 +2021,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty&hl=en_US&gl=US)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/tommyxchow/frosty)
-- [x] [Official page](https://www.frostyapp.io/)
+- [x] [Official site](https://www.frostyapp.io/)
 
 ## Unit Converter
 
@@ -2053,7 +2032,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
 - [x] [F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)
 - [x] [GitHub](https://github.com/ferraridamiano/ConverterNOW)
-- [x] [Official page](https://converter-now.web.app/)
+- [x] [Official site](https://converter-now.web.app/)
 
 ## URL Cleaner
 
@@ -2064,7 +2043,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.svenjacobs.app.leon/)
 - [x] [GitHub](https://github.com/svenjacobs/leon)
-- [ ] Official page
+- [ ] Official site
 
 ## Video Player
 
@@ -2075,7 +2054,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
 - [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
-- [x] [Official page](https://www.videolan.org/)
+- [x] [Official site](https://www.videolan.org/)
 
 ### Just (Video) Player
 
@@ -2084,7 +2063,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
 - [x] [GitHub](https://github.com/moneytoo/Player)
-- [ ] Official page
+- [ ] Official site
 
 ### mpv :heart:
 
@@ -2093,7 +2072,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 - [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
 - [x] [GitHub](https://github.com/mpv-android/mpv-android)
-- [x] [Official page](https://mpv.io/)
+- [x] [Official site](https://mpv.io/)
 
 ### mpvKt :heart:
 
@@ -2104,7 +2083,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/live.mehiz.mpvkt/)
 - [x] [GitHub](https://github.com/abdallahmehiz/mpvKt)
-- [ ] Official page
+- [ ] Official site
 
 ## VNC client
 
@@ -2115,7 +2094,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gaurav.avnc)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)
 - [x] [GitHub](https://github.com/gujjwal00/avnc)
-- [ ] Official page
+- [ ] Official site
 
 ## Voice Recorder
 
@@ -2126,7 +2105,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
 - [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
-- [ ] Official page
+- [ ] Official site
 
 ### Fossify Voice Recorder
 
@@ -2135,7 +2114,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.voicerecorder/)
 - [x] [GitHub](https://github.com/FossifyOrg/Voice-Recorder)
-- [x] [Official page](https://www.fossify.org/)
+- [x] [Official site](https://www.fossify.org/)
 
 ## Weather
 
@@ -2146,7 +2125,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)
 - [x] [GitHub](https://github.com/breezy-weather/breezy-weather)
-- [ ] Official page
+- [ ] Official site
 
 ### Pluvia Weather
 
@@ -2155,7 +2134,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.spicychair.weather)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
-- [ ] Official page
+- [ ] Official site
 
 ### Clima
 
@@ -2164,7 +2143,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
 - [x] [GitHub](https://codeberg.org/Lacerte/clima)
-- [x] [Official page](https://lacerte.github.io/clima/)
+- [x] [Official site](https://lacerte.github.io/clima/)
 
 ### Forecastie
 
@@ -2173,7 +2152,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/cz.martykan.forecastie/)
 - [x] [GitHub](https://github.com/martykan/forecastie)
-- [ ] Official page
+- [ ] Official site
 
 ### Veterondo
 
@@ -2182,7 +2161,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
 - [x] [GitHub](https://github.com/Antonis427/veterondo)
-- [ ] Official page
+- [ ] Official site
 
 ### Rain
 
@@ -2191,7 +2170,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.rain)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)
 - [x] [GitHub](https://github.com/DarkMooNight/Rain)
-- [ ] Official page
+- [ ] Official site
 
 ### Cirrus
 
@@ -2200,7 +2179,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/de/packages/org.woheller69.omweather/)
 - [x] [GitHub](https://github.com/woheller69/omweather)
-- [ ] Official page
+- [ ] Official site
 
 ## Wikipedia
 
@@ -2210,7 +2189,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
 - [x] [GitHub](https://github.com/wikimedia/apps-android-wikipedia)
-- [x] [Official page](https://www.wikipedia.org/)
+- [x] [Official site](https://www.wikipedia.org/)
 
 ### Kiwix
 
@@ -2218,7 +2197,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [GitHub](https://github.com/kiwix/kiwix-android)
-- [x] [Official page](https://www.kiwix.org)
+- [x] [Official site](https://www.kiwix.org)
 
 ## Workout
 
@@ -2229,7 +2208,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
 - [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
 - [x] [GitLab](https://gitlab.com/enjoyingfoss/feeel)
-- [ ] Official page
+- [ ] Official site
 
 ### Just Another Workout Timer
 
@@ -2238,7 +2217,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
 - [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
-- [ ] Official page
+- [ ] Official site
 
 ### Massive
 
@@ -2247,7 +2226,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.massive)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.massive/)
 - [x] [GitTea](https://gitea.presley.nz/brandon.presley/Massive)
-- [ ] Official page
+- [ ] Official site
 
 ## YouTube
 
@@ -2277,7 +2256,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
 - [x] [GitHub](https://github.com/SkyTubeTeam/SkyTube)
-- [ ] Official page
+- [ ] Official site
 
 ### LibreTube
 
@@ -2286,7 +2265,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
-- [x] [Official page](https://libre-tube.github.io/)
+- [x] [Official site](https://libre-tube.github.io/)
 
 ### SongTube
 
@@ -2295,7 +2274,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.artxdev.songtube)
 - [x] [GitHub](https://github.com/SongTube/SongTube-App)
-- [x] [Official page](https://songtube.github.io/)
+- [x] [Official site](https://songtube.github.io/)
 
 ### RiMusic
 
@@ -2304,7 +2283,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/it/packages/it.fast4x.rimusic/)
 - [x] [GitHub](https://github.com/fast4x/RiMusic)
-- [x] [Official page](https://rimusic.xyz/)
+- [x] [Official site](https://rimusic.xyz/)
 
 ### YTDLnis :heart:
 
@@ -2313,7 +2292,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
 - [x] [GitHub](https://github.com/deniscerri/ytdlnis)
-- [ ] Official page
+- [ ] Official site
 
 ### Seal
 
@@ -2322,7 +2301,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.junkfood.seal/)
 - [x] [GitHub](https://github.com/JunkFood02/Seal)
-- [ ] Official page
+- [ ] Official site
 
 ## Special thanks to
 
