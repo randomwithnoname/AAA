@@ -4,7 +4,7 @@
 Generally making a list of privacy/security features isn't an effective way to achieve security. It requires human judgement on a case-by-case basis.
 
 ## Ad-free
-No thanks.
+No thanks. Advertising doesn't belong in apps. If you sell premium features which aren't scamming people then it's fine.
 
 ## Still under development
 Apps must have the minimum targetSdk required to publish updates on the Play Store.
