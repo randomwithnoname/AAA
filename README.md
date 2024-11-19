@@ -2,7 +2,7 @@
 
 List of high quality Android apps which respect user privacy and autonomy. For the GrapheneOS community. See [contributing page](CONTRIBUTING.md) to contribute.
 
-So people don't get upset, I'll mark open source apps with a 🟩, open core apps with a 🟨 and closed source apps with a 🟥. I count source available apps as closed source. They don't help user freedom as legitimate forks aren't allowed.
+So people don't get upset, I'll mark open source apps with a 🟩, open core apps with a 🟨 and closed source apps with a 🟥. I count source available apps as closed source. They don't help user freedom as legitimate forks aren't allowed. You should also be aware that GPL only causes harm in today's world, but that's for another time.
 
 >
 > [Why does it exist?](WHY.md)
@@ -10,8 +10,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 > Please use `Home` button to go to the top.
 
 ### Rules
-
-- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Follows basic security practices
 - [x] Ad-free
 - [x] Installed and tested by me or by a contributor
@@ -26,7 +24,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### Contents
 
 - [2FA](#2fa)
-- [Ads & Trackers](#ads--trackers)
 - [AI](#ai)
 - [Alarm](#alarm)
 - [Android Customization](#android-customization)
@@ -138,15 +135,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth)
 - [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme)
 - [x] [Official page](https://ente.io/)
-
-
-
-
-
-
-
-## AI
-
+- [ ] 
 ### whoBIRD
 
 > Identify bird sounds in real time
