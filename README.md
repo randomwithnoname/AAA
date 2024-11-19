@@ -1199,7 +1199,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] [GitHub](https://github.com/simplex-chat)
 - [x] [Official site](https://simplex.chat/)
 
-- [ ] ### Signal
+### Signal
 
 <img alt="SignalIcon" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
