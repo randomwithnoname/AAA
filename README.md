@@ -1,6 +1,4 @@
-<img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternativesBanner">
-
-## Introduction
+# Introduction
 
 List of high quality Android apps which respect user privacy and autonomy. For the GrapheneOS community. See [contributing page](CONTRIBUTING.md) to contribute.
 
