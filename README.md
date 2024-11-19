@@ -629,7 +629,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Thunderbird
 
-<img alt="K-9MailIcon" height="64" src="https://avatars.githubusercontent.com/u/15187237?s=48&v=4">
+<img alt="ThunderbirdIcon" height="64" src="https://avatars.githubusercontent.com/u/15187237?s=48&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 - [x] [GitHub](https://github.com/thundernest/k-9)
@@ -637,7 +637,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Delta Chat
 
-<img alt="SimpleLoginIcon" height="64" src="https://avatars.githubusercontent.com/u/29453316?s=200&v=4">
+<img alt="DeltaChatIcon" height="64" src="https://avatars.githubusercontent.com/u/29453316?s=200&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 - [x] [GitHub](https://delta.chat/en/)
@@ -658,39 +658,24 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Accrescent
 
-<img alt="F-DroidIcon" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
+<img alt="AccrescentIcon" height="64" src="https://accrescent.app/accrescent.svg">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
-- [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
-- [x] [Official page](https://f-droid.org/)
+- [x] GrapheneOS App Store
+- [x] [GitHub](https://github.com/accrescent/accrescent)
+- [x] [Official page](https://accrescent.app/)
 
-### Aurora Droid
+### GrapheneOS App Store
+- [x] [GitHub](https://github.com/GrapheneOS/AppStore)
+- [x] [Official page](https://grapheneos.org/)
 
-<img alt="AuroraDroidIcon" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
-- [x] [Official page](https://auroraoss.com/)
-
-### Droid-ify :heart:
+### Google Play Store
 
 <img alt="Droid-ifyIcon" height="64" src="https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
+- [x] Bundled with Google certified AOSP distributions (Android), updates itself
+- [x] GrapheneOS App Store (Mirror)
 - [x] [GitHub](https://github.com/Iamlooker/Droid-ify)
-- [ ] Official page
-
-### Neo Store
-
-<img alt="NeoStoreIcon" height="64" src="https://github.com/NeoApplications/Neo-Store/raw/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
-
-- [ ] Google Play
-- [x] [F-Droid](https://www.f-droid.org/packages/com.machiav3lli.fdroid/)
-- [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
-- [ ] Official page
+- [x] [Official page](https://play.google.com/store/games)
 
 ## File Manager
 
