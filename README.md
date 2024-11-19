@@ -1193,7 +1193,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### SimpleX
 
-<img alt="SessionIcon" height="64" src="https://github.com/simplex-chat/simplex-chat/blob/stable/apps/multiplatform/android/src/main/res/mipmap-hdpi/icon.png">
+<img alt="SessionIcon" height="64" src="https://avatars.githubusercontent.com/u/59927747?s=64&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.simplex.app)
 - [x] [GitHub](https://github.com/simplex-chat)
