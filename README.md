@@ -20,7 +20,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] Respects animations being turned off
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **262** 🎉
 
 ### Contents
 
