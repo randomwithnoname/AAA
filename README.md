@@ -1184,7 +1184,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Instant Messaging
 
-### Molly
+### [Molly](https://github.com/randomwithnoname/android-apps/blob/main/apps/molly.md)
 
 <img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
