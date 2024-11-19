@@ -1184,32 +1184,28 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Instant Messaging
 
-### Signal :heart:
+### Molly
+
+<img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
+
+- [x] [GitHub](https://github.com/mollyim/mollyim-android)
+- [x] [Official page](https://molly.im/)
+
+### SimpleX
+
+<img alt="SessionIcon" height="64" src="https://github.com/simplex-chat/simplex-chat/blob/stable/apps/multiplatform/android/src/main/res/mipmap-hdpi/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=chat.simplex.app)
+- [x] [GitHub](https://github.com/simplex-chat)
+- [x] [Official site](https://simplex.chat/)
+
+- [ ] ### Signal
 
 <img alt="SignalIcon" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
-- [ ] F-Droid
 - [x] [GitHub](https://github.com/signalapp/Signal-Android)
-- [x] [Official page](https://signal.org/)
-
-### Molly :heart:
-
-<img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://molly.im/fdroid/)
-- [x] [GitHub](https://github.com/mollyim/mollyim-android)
-- [x] [Official page](https://molly.im/)
-
-### Session
-
-<img alt="SessionIcon" height="64" src="https://raw.githubusercontent.com/oxen-io/session-android/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-
-- [x] [Google Play](https://getsession.org/android)
-- [x] [F-Droid](https://fdroid.getsession.org/)
-- [x] [GitHub](https://github.com/oxen-io/session-android)
-- [x] [Official page](https://getsession.org/)
+- [x] [Official site](https://signal.org/)
 
 ### Nekogram X
 
