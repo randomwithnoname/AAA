@@ -1127,8 +1127,8 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### [Molly](https://github.com/randomwithnoname/android-apps/blob/main/apps/molly.md)
 
-<img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
+- [x] [Accrescent](https://accrescent.app/app/im.molly.app)
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
 - [x] [Official page](https://molly.im/)
 
@@ -2493,41 +2493,24 @@ Currently being reworked as Neo Launcher.
 
 ## YouTube
 
-### NewPipe :heart:
-
-<img alt="NewPipeIcon" height="64" src="https://newpipe.net/img/logo.svg">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
-- [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
-- [x] [Official page](https://newpipe.net/)
-
-### Tubular :heart:
+### Tubular
 
 <img alt="TubularIcon" height="64" src="https://raw.githubusercontent.com/polymorphicshade/Tubular/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
 - [x] [GitHub](https://github.com/polymorphicshade/Tubular)
-- [ ] Official page
 
 ### PipePipe
 
 <img alt="PipePipeIcon" height="64" src="https://raw.githubusercontent.com/InfinityLoop1308/PipePipe/main/fastlane/metadata/android/en-US/images/icon.png">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)
 - [x] [GitHub](https://github.com/InfinityLoop1308/PipePipe)
-- [ ] Official page
 
-### Clipious :heart:
+### Clipious
 
 <img alt="ClipiousIcon" height="64" src="https://raw.githubusercontent.com/lamarios/clipious/9d8f8f039a38ab27ea34e0ef28ddad1f22c4de91/assets/icon.svg">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)
+- [x] [Accrescent](https://accrescent.app/app/com.github.lamarios.clipious)
 - [x] [GitHub](https://github.com/lamarios/clipious)
-- [ ] Official page
 
 ### SkyTube
 
