@@ -7,7 +7,7 @@ Generally making a list of privacy/security features isn't an effective way to a
 No thanks.
 
 ## Still under development
-Apps must have the current targetSdk to publish updates on the Play Store.
+Apps must have the minimum targetSdk required to publish updates on the Play Store.
 
 ## Has dark theme
 App must have black AMOLED or grayish theme to save your eyes from strain. It should at least have the option to adapt based on system dark theme.
