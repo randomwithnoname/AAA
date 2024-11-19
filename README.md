@@ -853,82 +853,18 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ## Health
 
-### Did I Take My Meds?
+### Pedometer
 
-<img alt="DidITakeMyMeds?Icon" height="64" src="https://raw.githubusercontent.com/CorruptedArk/did-i-take-my-meds/25129dbbf9e801259b31a4ec740a9127e2cce14b/icons/launcher_icon.svg">
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-pedometer)
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
-- [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
-- [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
-- [ ] Official page
-
-### Medic Log
-
-<img alt="MedicLogIcon" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_medic_log/)
-- [x] [GitHub](https://github.com/rh-id/a-medic-log)
-- [ ] Official page
 
 ### MediLog
 
-<img alt="MediLogIcon" height="64" src="https://codeberg.org/toz/MediLog/raw/branch/master/app/src/main/mipmap-xxxhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.zell_mbc.medilog/)
 - [x] [Codeberg](https://codeberg.org/toz/MediLog)
 - [x] [Official page](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
 
 ### MedTimer
-
-<img alt="MedTimerIcon" height="64" src="https://raw.githubusercontent.com/Futsch1/medTimer/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.futsch1.medtimer)
 - [x] [GitHub](https://github.com/Futsch1/medTimer)
-- [ ] Official page
-
-## Icon Pack
-
-### Arcticons :heart:
-
-<img alt="ArcticonsIcon" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.donnnno.arcticons)
-- [x] [F-Droid](https://f-droid.org/packages/com.donnnno.arcticons)
-- [x] [GitHub](https://github.com/Donnnno/Arcticons)
-- [x] [Official page](https://arcticons.onnno.nl/)
-
-### Ameixa
-
-<img alt="AmeixaIcon" height="64" src="https://gitlab.com/xphnx/ameixa/-/raw/master/app/src/chromatic/res/mipmap-xxxhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/org.xphnx.ameixa/)
-- [x] [F-Droid (Monochrome)](https://f-droid.org/en/packages/org.xphnx.ameixamonochrome/)
-- [x] [GitLab](https://gitlab.com/xphnx/ameixa)
-- [x] [Official page](https://xphnx.gitlab.io/ameixa)
-
-### Delta
-
-<img alt="DeltaIcon" height="64" src="https://raw.githubusercontent.com/Delta-Icons/android/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
-- [x] [F-Droid](https://f-droid.org/packages/website.leifs.delta.foss/)
-- [x] [GitHub](https://github.com/Delta-Icons/android)
-- [x] [Official page](https://delta-icons.github.io/)
-
-## IDE
-
-### Cosmic IDE
-
-<img alt="CosmicIDEIcon" height="64" src="https://raw.githubusercontent.com/Cosmic-Ide/Cosmic-IDE/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.cosmicide)
-- [x] [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE)
-- [ ] Official page
 
 ## Image Processing
 
