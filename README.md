@@ -35,7 +35,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [Calculator](#calculator)
 - [Calendar](#calendar)
 - [Camera](#camera)
-- [ChatGPT](#chatgpt)
 - [Chess](#chess)
 - [Cocktails Making](#coctails-making)
 - [Contacts](#contacts)
@@ -317,17 +316,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
-
-## ChatGPT
-
-### ChatGPT Android
-
-<img alt="ChatGPTAndroidIcon" height="64" src="https://opencamera.org.uk/ic_launcher.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/skydoves/chatgpt-android)
-- [ ] Official page
 
 ## Chess
 
