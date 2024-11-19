@@ -2,7 +2,6 @@
 
 List of high quality Android apps which respect user privacy and autonomy. For the GrapheneOS community. See [contributing page](CONTRIBUTING.md) to contribute.
 
-> App Name :heart: = Someone's Personal Favourite
 >
 > [Why does it exist?](WHY.md)
 >
