@@ -2221,7 +2221,6 @@ Currently being reworked as Neo Launcher.
 <img alt="WikipediaIcon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikipedia_mobile_app_logo.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
 - [x] [GitHub](https://github.com/wikimedia/apps-android-wikipedia)
 - [x] [Official page](https://www.wikipedia.org/)
 
@@ -2230,7 +2229,6 @@ Currently being reworked as Neo Launcher.
 <img alt="KiwixIcon" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
-- [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
 - [x] [GitHub](https://github.com/kiwix/kiwix-android)
 - [x] [Official page](https://www.kiwix.org)
 
