@@ -670,7 +670,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Google Play Store
 
-<img alt="Droid-ifyIcon" height="64" src="https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [x] Bundled with Google certified AOSP distributions (Android), updates itself
 - [x] GrapheneOS App Store (Mirror)
