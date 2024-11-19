@@ -12,17 +12,15 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Rules
 
-- [x] Open Sourced
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
-- [x] Free as in Freedom
+- [x] Follows basic security practices
 - [x] Ad-free
-- [x] Installed and tested by me or by contributor
+- [x] Installed and tested by me or by a contributor
 - [x] [Privacy-friendly aware](PRIVACY_MANUAL.md)
 - [x] Easy to use
-- [x] Still in development or polished experience
-- [x] Does not lack features compared to proprietary app
-- [x] Does not need an account (the only exceptions are [self-hosted](#self-hosted) apps)
+- [x] Still under development
 - [x] Has dark theme
+- [x] Respects animations being turned off
   > [More detailed explanation here.](RULES.md)
 
 **AWESOME** apps counter: **262** 🎉
