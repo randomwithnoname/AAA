@@ -242,10 +242,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ### Brave
 
-<img alt="BraveIcon" height="64" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4">
-
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
-- [ ] F-Droid
 - [x] [GitHub](https://github.com/brave/brave-browser)
 - [x] [Official site](https://brave.com/)
 
