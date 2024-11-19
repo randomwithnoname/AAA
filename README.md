@@ -658,7 +658,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Accrescent
 
-<img alt="AccrescentIcon" height="64" src="https://accrescent.app/accrescent.svg">
+
 
 - [x] GrapheneOS App Store
 - [x] [GitHub](https://github.com/accrescent/accrescent)
