@@ -627,25 +627,21 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] [GitHub](https://github.com/M66B/FairEmail)
 - [x] [Official page](https://email.faircode.eu/)
 
-### K-9 Mail
+### Thunderbird
 
-<img alt="K-9MailIcon" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
+<img alt="K-9MailIcon" height="64" src="https://avatars.githubusercontent.com/u/15187237?s=48&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
-- [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 - [x] [GitHub](https://github.com/thundernest/k-9)
-- [x] [Official page](https://k9mail.app/)
+- [x] [Official page](https://www.thunderbird.net/en-US/mobile/)
 
-### SimpleLogin
+### Delta Chat
 
-> Aliases management
+<img alt="SimpleLoginIcon" height="64" src="https://avatars.githubusercontent.com/u/29453316?s=200&v=4">
 
-<img alt="SimpleLoginIcon" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
-- [x] [F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
-- [x] [GitHub](https://github.com/simple-login/Simple-Login-Android)
-- [x] [Official page](https://simplelogin.io/)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
+- [x] [GitHub](https://delta.chat/en/)
+- [x] [Official page](https://delta.chat/)
 
 ## Emulation
 
@@ -658,9 +654,9 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
 - [ ] Official page
 
-## F-Droid
+## App Stores
 
-### F-Droid
+### Accrescent
 
 <img alt="F-DroidIcon" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
 
