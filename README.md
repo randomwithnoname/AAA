@@ -91,7 +91,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [Self Hosted](#self-hosted)
 - [Shazam](#shazam)
 - [SMS Messenger](#sms-messenger)
-- [Spotify](#spotify)
 - [SSH client](#ssh-client)
 - [Stargazing](#stargazing)
 - [Step Counting](#step-counting)
@@ -1532,8 +1531,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer)
 - [ ] Official site
 
-## Spotify
-
 ### Blade Player :heart:
 
 <img alt="BladePlayerIcon" height="64" src="https://raw.githubusercontent.com/vhaudiquet/BladePlayer/master/app/src/main/ic_launcher-playstore.png">
@@ -1542,18 +1539,6 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
 - [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
 - [ ] Official site
-
-## SSH client
-
-### ConnectBot :heart:
-
-<img alt="ConnectBotIcon" height="64" src="https://raw.githubusercontent.com/connectbot/connectbot/main/icons/icon64.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
-- [x] [GitHub](https://github.com/connectbot/connectbot)
-- [x] [Official site](http://connectbot.org/)
-
 ## Stargazing
 
 ### Sky Map
