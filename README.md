@@ -123,9 +123,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## 2FA
 
-### Aegis :heart:
-
-<img alt="AegisIcon" height="64" src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/app/src/main/res/drawable/ic_aegis_iconx.png">
+### Aegis
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
@@ -151,117 +149,45 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 > Identify bird sounds in real time
 
-<img alt="whoBIRDIcon" height="64" src="https://raw.githubusercontent.com/woheller69/whoBIRD/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.woheller69.whobird/)
 - [x] [GitHub](https://github.com/woheller69/whoBIRD)
-- [ ] Official page
 
 ### TIDY
 
 > Text-to-Image Discovery
-
-<img alt="TIDYIcon" height="64" src="https://raw.githubusercontent.com/slavabarkov/tidy/refs/heads/main/app/src/main/ic_launcher-playstore.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.slavabarkov.tidy/)
 - [x] [GitHub](https://github.com/slavabarkov/tidy)
-- [ ] Official page
 
 ## Alarm
 
 ### Clock :heart:
 
-<img alt="ClockIcon" height="64" src="https://raw.githubusercontent.com/BlackyHawky/Clock/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
 - [x] [GitHub](https://github.com/BlackyHawky/Clock)
-- [ ] Official page
 
-### Clock You :heart:
+### Clock You
 
-<img alt="ClockYouIcon" height="64" src="https://github.com/you-apps/ClockYou/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
 - [x] [GitHub](https://github.com/you-apps/ClockYou)
 - [x] [Official page](https://you-apps.net/)
 
 ### Fossify Clock
-
-<img alt="FossifyClockIcon" height="64" src="https://github.com/FossifyOrg/Clock/raw/master/graphics/icon.webp">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
 - [x] [GitHub](https://github.com/FossifyOrg/Clock)
 - [x] [Official page](https://www.fossify.org/)
 
 ### Chrono
-
-<img alt="ChronoIcon" height="64" src="https://raw.githubusercontent.com/vicolo-dev/chrono/master/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.vicolo.chrono/)
 - [x] [GitHub](https://github.com/vicolo-dev/chrono)
 - [ ] Official page
 
 ## Android Customization
 
-### Magisk️
 
-<img alt="Magisk️Icon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
-- [x] [GitHub](https://github.com/topjohnwu/Magisk)
-- [x] [Official page](https://topjohnwu.github.io/Magisk/)
-
-### Warden
-
-<img alt="WardenIcon" height="64" src="https://gitlab.com/AuroraOSS/AppWarden/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.aurora.warden)
-- [x] [GitLab](https://gitlab.com/AuroraOSS/AppWarden)
-- [x] [Official page](https://auroraoss.com/)
-
-### SmartPack-Kernel Manager
-
-<img alt="SmartPack-KernelManagerIcon" height="64" src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.smartpack.kernelmanager)
-- [x] [GitHub](https://github.com/SmartPack/SmartPack-Kernel-Manager)
-- [x] [Official page](https://smartpack.github.io/)
-
-### Amarok
-
-<img alt="AmarokIcon" height="64" src="https://raw.githubusercontent.com/deltazefiro/Amarok-Hider/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
-- [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider)
-- [x] [Official page](https://deltazefiro.github.io/Amarok-doc/)
 
 ## Anime & Manga
 
 ### Aniyomi :heart:
 
-<img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
-
-- [ ] Google Play
-- [ ] F-Droid
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
 - [x] [Official page](https://aniyomi.jmir.xyz/)
 
 ### TachiyomiAZ
 
-<img alt="TachiyomiAZIcon" height="64" src="https://raw.githubusercontent.com/az4521/TachiyomiAZ/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
 - [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
 - [x] [Official page](https://crafty.moe/tachiAZ.htm)
 
@@ -275,25 +201,9 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [ ] Official page
 
 ### Kotatsu
-
-<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
 - [x] [Official page](https://kotatsu.app/)
 
-## App Backup
-
-### Neo Backup
-
-<img alt="NeoBackupIcon" height="64" src="https://github.com/NeoApplications/Neo-Backup/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-(Root required)
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
-- [x] [GitHub](https://github.com/NeoApplications/Neo-Backup)
-- [ ] Official page
 
 ## Background Noise
 
@@ -310,19 +220,15 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Binary Eye
 
-<img alt="BinaryEyeIcon" height="64" src="https://raw.githubusercontent.com/markusfisch/BinaryEye/master/svg/google_play_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
-- [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
 - [ ] Official page
 
 ### QR Scanner (PFA)
 
-<img alt="PrivacyFriendlyQRScannerIcon" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-qr-scanner/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)
-- [x] [F-Droid](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
 - [x] [GitHub](https://github.com/SecUSo/privacy-friendly-qr-scanner)
 - [x] [Official page](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
 
@@ -331,7 +237,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 <img alt="SecScanQRIcon" height="64" src="https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/web_hi_res_512.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
 - [x] [GitHub](https://github.com/Fr4gorSoftware/SecScanQR)
 - [ ] Official page
 
@@ -340,29 +245,10 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 <img alt="SimpleQRIcon" height="64" src="https://raw.githubusercontent.com/tomfong/simple-qr/main/.github/images/icon_round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.tomfong.simpleqr)
 - [x] [GitHub](https://github.com/tomfong/simple-qr)
 - [ ] Official page
 
 ## Browser
-
-### Cromite :heart:
-
-<img alt="CromiteIcon" height="64" src="https://www.cromite.org/app_icon.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/uazo/cromite)
-- [x] [Official page](https://www.cromite.org/)
-
-### Mull
-
-<img alt="MullIcon" height="64" src="https://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix)
-- [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
 
 ### Brave
 
@@ -373,54 +259,24 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] [GitHub](https://github.com/brave/brave-browser)
 - [x] [Official page](https://brave.com/)
 
-### Iceraven
+### Vanadium
 
-<img alt="IceravenIcon" height="64" src="https://raw.githubusercontent.com/fork-maintainers/iceraven-browser/f7c14b140e267c110977c271887837e6b64721ce/fork-asset-sources/IceRaven%202.svg">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/fork-maintainers/iceraven-browser)
-- [ ] Official page
+- [x] GrapheneOS App Store
+- [x] [GitHub](https://github.com/GrapheneOS/Vanadium)
 
 ## Calculator
 
-### Calculator++ :heart:
-
-<img alt="Calculator++Icon" height="64" src="https://raw.githubusercontent.com/Bubu/android-calculatorpp/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png">
-
-([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differs from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
-
-- [x] ~~[Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)~~
-- [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
-- [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
-- [ ] Official page
-
 ### Calculator-inator
 
-<img alt="Calculator-inatorIcon" height="64" src="https://raw.githubusercontent.com/prathameshmm02/Calculator-inator/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.inator.calculator/)
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
-- [ ] Official page
 
 ### yetCalc
-
-<img alt="yetCalcIcon" height="64" src="https://github.com/Yet-Zio/yetCalc/raw/main/img/icons/appico.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/yetzio.yetcalc)
 - [x] [GitHub](https://github.com/Yet-Zio/yetCalc)
-- [ ] Official page
 
 ### OpenCalc
 
-<img alt="OpenCalcIcon" height="64" src="https://github.com/Darkempire78/OpenCalc/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.darkempire78.opencalculator)
 - [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
-- [ ] Official page
 
 ### CuteCalc
 
@@ -994,17 +850,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/NamanShergill/diohub)
 - [ ] Official page
-
-## Google Play
-
-### Aurora Store :heart:
-
-<img alt="AuroraStoreIcon" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
-- [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
-- [x] [Official page](https://auroraoss.com/)
 
 ### Obtainium
 
