@@ -675,7 +675,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] Bundled with Google certified AOSP distributions (Android), updates itself
 - [x] GrapheneOS App Store (Mirror)
 - [x] [GitHub](https://github.com/Iamlooker/Droid-ify)
-- [x] [Official page](https://play.google.com/store/games)
+- [x] [Official page](https://play.google.com/)
 
 ## File Manager
 
