@@ -34,7 +34,6 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 - [Browser](#browser)
 - [Calculator](#calculator)
 - [Calendar](#calendar)
-- [Camera](#camera)
 - [Chess](#chess)
 - [Cocktails Making](#coctails-making)
 - [Contacts](#contacts)
@@ -278,10 +277,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ### Fossify Calendar
 
-<img alt="FossifyCalendarIcon" height="64" src="https://github.com/FossifyOrg/Calendar/raw/master/graphics/icon.webp">
-
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.calendar)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)
 - [x] [GitHub](https://github.com/FossifyOrg/Calendar)
 - [x] [Official site](https://www.fossify.org/)
 
@@ -290,29 +286,7 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 <img alt="EtarIcon" height="64" src="https://github.com/Etar-Group/Etar-Calendar/blob/master/metadata/Etar%20Logo.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
-- [x] [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/)
 - [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
-- [ ] Official site
-
-## Camera
-
-### OpenCamera
-
-<img alt="OpenCameraIcon" height="64" src="https://opencamera.org.uk/ic_launcher.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
-- [x] [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
-- [x] [SourceForge](https://sourceforge.net/p/opencamera/code/)
-- [x] [Official site](https://opencamera.org.uk/)
-
-### Secure Camera by GrapheneOS
-
-<img alt="GrapheneOSCameraIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/Camera/main/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/GrapheneOS/Camera)
-- [x] [Official site](https://grapheneos.org/)
 
 ## Chess
 
