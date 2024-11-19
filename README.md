@@ -42,9 +42,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
-- [Dialer](#dialer)
 - [Diary](#diary)
-- [Discord](#discord)
 - [Document Scanner](#document-scanner)
 - [Download Manager](#download-manager)
 - [Drawing](#drawing)
@@ -539,25 +537,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [x] [GitHub](https://github.com/KDE/kdeconnect-kde)
 - [x] [Official page](https://kdeconnect.kde.org/)
 
-## Dialer
-
-### Koler
-
-<img alt="KolerIcon" height="64" src="https://raw.githubusercontent.com/Chooloo/koler/master/koler/src/main/ic_launcher-web.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
-- [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
-- [x] [GitHub](https://github.com/Chooloo/koler)
-- [ ] Official page
-
-### Fossify Phone :heart:
-
-<img alt="FossifyPhoneIcon" height="64" src="https://github.com/FossifyOrg/Phone/raw/master/graphics/icon.webp">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
-- [x] [GitHub](https://github.com/FossifyOrg/Phone)
-- [x] [Official page](https://www.fossify.org/)
 
 ## Diary
 
@@ -584,24 +563,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 ### Download Navi
 
 <img alt="DownloadNaviIcon" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
 - [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
-- [ ] Official page
-
-## Discord
-
-### Aliucord
-
-<img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
-
-(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java))
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/Aliucord/Aliucord)
-- [ ] Official page
 
 ## Document Scanner
 
